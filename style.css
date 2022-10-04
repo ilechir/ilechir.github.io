@@ -1,0 +1,26 @@
+*{
+    background-color: #030134;
+}
+.grid {
+    margin-top: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    width: 250px;
+    height: 250px;
+
+} 
+h1 , h2 {
+
+    margin: 20px 40px;
+    font-family: 'Silkscreen', cursive;
+    color: #ffff;
+
+}
+
+h1 {
+    text-align: center;
+}
